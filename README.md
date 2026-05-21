@@ -281,6 +281,27 @@ Future improvements may include:
 * Presentation preparation
 
 ---
+## Dashboard
+
+## 🌐 Live Streamlit Dashboard
+
+The interactive Streamlit dashboard is deployed online and can be accessed using the following link:
+
+🔗 https://university-library-analytics-dashboard.streamlit.app
+
+The dashboard provides:
+
+* department-wise analytics
+* borrowing trend visualization
+* peak hour analysis
+* KPI metrics
+* interactive filtering
+* study duration insights
+* institutional analytics visualization
+
+Users can explore the dashboard in real time directly through the deployed web application.
+
+---
 
 # 📚 Academic Purpose
 
