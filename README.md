@@ -1,3 +1,5 @@
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_Dashboard-red?logo=streamlit)](https://university-library-analytics-dashboard.streamlit.app)
+
 # 📚 University Central Library Analytics Dashboard
 
 ## 📌 Project Overview
